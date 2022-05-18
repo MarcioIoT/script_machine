@@ -1,2 +1,1 @@
 mkdir teste
-shutdown /r
