@@ -1,1 +1,1 @@
-start chrome http://104.41.49.241/login/index.php --start-fullscreen
+start chrome https://uol.com.br --start-fullscreen
