@@ -1,2 +1,2 @@
-export DISPLY=:0 && firefox
+#export DISPLY=:0 && firefox
 firefox
