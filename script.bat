@@ -1,1 +1,1 @@
-start chrome https://uol.com.br --start-fullscreen
+#start chrome https://uol.com.br --start-fullscreen
